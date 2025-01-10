@@ -1,4 +1,4 @@
-# .NET Core Web API with Authentication and Authorization
+# .NET Core Web API
 
 This repository demonstrates a .NET Core Web API with robust authentication and authorization, including role-based access control.
 

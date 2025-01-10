@@ -12,7 +12,7 @@ This repository demonstrates a .NET Core Web API with robust authentication and 
 
 ## Technologies Used
 
-*   .NET Core (Specify version e.g., .NET 7, .NET 8)
+*   .NET Core 8 or 9
 *   ASP.NET Core Web API
 *   JWT (JSON Web Tokens)
 *   Entity Framework Core

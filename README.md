@@ -18,13 +18,3 @@ This repository demonstrates a .NET Core Web API with robust authentication and 
 *   Entity Framework Core
 *   Swagger/Swashbuckle
 *   SQL Server
-*   Docker for SQL Server
-
-## Getting Started
-
-1.  Clone the repository: `git clone [invalid URL removed]`
-2.  Navigate to the project: `cd YOUR_PROJECT_NAME`
-3.  Restore packages: `dotnet restore`
-4.  Configure `appsettings.json` (database, JWT secret).
-5.  Build: `dotnet build`
-6.  Run: `dotnet run`

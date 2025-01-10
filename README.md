@@ -18,3 +18,14 @@ This repository demonstrates a .NET Core Web API with robust authentication and 
 *   Entity Framework Core
 *   Swagger/Swashbuckle
 *   SQL Server
+
+## Problem Statement
+
+The goal of this project is to create a RESTful API that allows users to:
+
+*   View information about various walks in New Zealand.
+*   Create, update, and delete walk data.
+*   Securely manage user accounts and access to sensitive operations.
+
+This API addresses the need for a centralized system to manage and access information about New Zealand walks, making it easier for hikers and other interested parties to find relevant details.
+

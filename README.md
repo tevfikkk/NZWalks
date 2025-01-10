@@ -28,18 +28,3 @@ This repository demonstrates a .NET Core Web API with robust authentication and 
 4.  Configure `appsettings.json` (database, JWT secret).
 5.  Build: `dotnet build`
 6.  Run: `dotnet run`
-
-## API Endpoints (Examples)
-
-*   `POST /api/auth/register`: Register user.
-*   `POST /api/auth/login`: Authenticate and get JWT.
-*   `GET /api/protected`: Requires authentication.
-*   `GET /api/admin`: Requires "Admin" role.
-
-## Contributing
-
-Contributions are welcome.
-
-## License
-
-(Specify License)
